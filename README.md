@@ -1,8 +1,3 @@
-<style>
-  .name {
-    text-decoration: none;
-    color: tomato;
-  }
 </style>
 
 <table>
@@ -17,7 +12,7 @@
     <tr>
       <td>01</td>
       <td>
-        <a class="name" href="https://github.com/debbrotokumark/SImpleportfolio"
+        <a href="https://github.com/debbrotokumark/SImpleportfolio"
           >SImple portfolio</a
         >
       </td>
