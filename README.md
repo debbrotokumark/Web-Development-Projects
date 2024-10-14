@@ -1,3 +1,10 @@
+<style>
+  .name {
+    text-decoration: none;
+    color: tomato;
+  }
+</style>
+
 <table>
   <thead>
     <tr>
@@ -9,7 +16,11 @@
   <tbody>
     <tr>
       <td>01</td>
-      <td>SImple portfolio</td>
+      <td>
+        <a class="name" href="https://github.com/debbrotokumark/SImpleportfolio"
+          >SImple portfolio</a
+        >
+      </td>
       <td>
         <a href="https://debbrotokumark.github.io/SImpleportfolio/"
           >Live Demo</a
