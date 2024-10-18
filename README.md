@@ -1,5 +1,3 @@
-</style>
-
 <table>
   <thead>
     <tr>
@@ -12,6 +10,19 @@
     <tr>
       <td>01</td>
       <td>
+        <a href="https://github.com/debbrotokumark/Center-in-screen/"
+          >Center-in-screen</a
+        >
+      </td>
+      <td>
+        <a href="https://debbrotokumark.github.io/Center-in-screen/"
+          >Live Demo</a
+        >
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
         <a href="https://github.com/debbrotokumark/SImpleportfolio"
           >SImple portfolio</a
         >
@@ -22,16 +33,8 @@
         >
       </td>
     </tr>
-    <tr>
-      <td>02</td>
-      <td>Progress Steps</td>
-      <td><a href="URL_of_Live_Demo">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Rotating Navigation Animation</td>
-      <td><a href="URL_of_Live_Demo">Live Demo</a></td>
-    </tr>
-    <!-- Add more rows as needed -->
+  
+  
+    
   </tbody>
 </table>
