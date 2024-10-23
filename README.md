@@ -51,7 +51,18 @@
       <td>
         <a href="https://debbrotokumark.github.io/The-Great-Escape-CSS-Project/">Live Demo</a>
       </td>
+    </tr> 
+    
+    <tr>
+      <td>06</td>
+      <td>
+        <a href="https://github.com/debbrotokumark/Tour-and-Travels-CSS-Project/">Tour and Travels</a>
+      </td>
+      <td>
+        <a href="https://debbrotokumark.github.io/Tour-and-Travels-CSS-Project/">Live Demo</a>
+      </td>
     </tr>
+
     <tr>
       <td>10</td>
       <td>
