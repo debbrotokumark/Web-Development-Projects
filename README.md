@@ -62,6 +62,15 @@
       </td>
     </tr>
     <tr>
+      <td>07</td>
+      <td>
+        <a href="https://github.com/debbrotokumark/Side-Navigation-Menu-CSS/">Side Navigation Menu</a>
+      </td>
+      <td>
+        <a href="https://debbrotokumark.github.io/Side-Navigation-Menu-CSS/">Live Demo</a>
+      </td>
+    </tr>
+    <tr>
       <td>10</td>
       <td>
         <a href="https://github.com/debbrotokumark/SImpleportfolio">SImple portfolio</a>
