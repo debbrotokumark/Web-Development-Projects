@@ -61,7 +61,6 @@
         <a href="https://debbrotokumark.github.io/Tour-and-Travels-CSS-Project/">Live Demo</a>
       </td>
     </tr>
-    
     <tr>
       <td>07</td>
       <td>
@@ -82,7 +81,6 @@
       </td>
     </tr>
     <tr>
-      
       <td>10</td>
       <td>
         <a href="https://github.com/debbrotokumark/SImpleportfolio">SImple portfolio</a>
